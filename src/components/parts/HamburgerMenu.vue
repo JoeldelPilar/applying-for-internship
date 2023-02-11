@@ -110,7 +110,7 @@
 		opacity: 0;
 	}
 
-	@media (width <=64rem) {
+	@media (min-width: 64rem) {
 		.menu__container {
 			margin-block-start: 2rem;
 			padding-inline: 6rem;
