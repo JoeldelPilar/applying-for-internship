@@ -130,7 +130,7 @@
 		background-color: hsl(207, 44%, 49%);
 	}
 
-	@media screen and (min-width: 500px) {
+	@media screen and (max-width: 500px) {
 		.footer__container--grid {
 			grid-template-columns: 1fr 1fr;
 			grid-template-rows: 2;

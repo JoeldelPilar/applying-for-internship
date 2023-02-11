@@ -41,7 +41,7 @@
 		}
 	}
 
-	@media screen and (min-width: 1024px) {
+	@media screen and (max-width: 1024px) {
 		.hero__container--heading {
 			h1 {
 				font-size: 1.5rem;

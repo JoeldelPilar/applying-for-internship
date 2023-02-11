@@ -110,7 +110,7 @@
 		opacity: 0;
 	}
 
-	@media screen and (min-width: 1024px) {
+	@media screen and (max-width: 1024px) {
 		.menu__container {
 			margin-block-start: 2rem;
 			padding-inline: 6rem;
