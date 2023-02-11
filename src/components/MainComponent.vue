@@ -112,7 +112,7 @@
 		list-style: inside;
 
 		.html {
-			list-style-image: url(./html.svg);
+			list-style-image: url(../../public/html.svg);
 		}
 
 		.scss {
