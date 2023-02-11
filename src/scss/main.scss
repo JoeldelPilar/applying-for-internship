@@ -1,0 +1,12 @@
+@import '_reset';
+/******************************************************************************
+* Here is some general styling that primaraly are out of scoop for components *
+* specific styling can be found in the corresponding component                *
+*******************************************************************************/
+
+body {
+	background-image: url('../../public/abstract_background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Open Sans', sans-serif;
+}
