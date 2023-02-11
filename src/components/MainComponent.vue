@@ -116,39 +116,39 @@
 		}
 
 		.scss {
-			list-style-image: url(./css.svg);
+			list-style-image: url(../../public/css.svg);
 		}
 
 		.js {
-			list-style-image: url(./js.svg);
+			list-style-image: url(../../public/js.svg);
 		}
 
 		.react {
-			list-style-image: url(./react.svg);
+			list-style-image: url(../../public/react.svg);
 		}
 
 		.api {
-			list-style-image: url(./api.svg);
+			list-style-image: url(../../public/api.svg);
 		}
 
 		.test {
-			list-style-image: url(./testing.svg);
+			list-style-image: url(../../public/testing.svg);
 		}
 
 		.agil {
-			list-style-image: url(./agile.svg);
+			list-style-image: url(../../public/agile.svg);
 		}
 
 		.vue {
-			list-style-image: url(./vue.svg);
+			list-style-image: url(../../public/vue.svg);
 		}
 
 		.git {
-			list-style-image: url(./github.svg);
+			list-style-image: url(../../public/github.svg);
 		}
 
 		.figma {
-			list-style-image: url(./figma.svg);
+			list-style-image: url(../../public/figma.svg);
 		}
 	}
 
