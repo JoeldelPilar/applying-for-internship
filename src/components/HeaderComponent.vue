@@ -41,7 +41,7 @@
 		}
 	}
 
-	@media (min-width: 64rem) {
+	@media (min-width: 1024px) {
 		.hero__container--heading {
 			h1 {
 				font-size: 1.5rem;

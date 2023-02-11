@@ -130,7 +130,7 @@
 		background-color: hsl(207, 44%, 49%);
 	}
 
-	@media (min-width: 31rem) {
+	@media (min-width: 500px) {
 		.footer__container--grid {
 			grid-template-columns: 1fr 1fr;
 			grid-template-rows: 2;

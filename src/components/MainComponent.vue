@@ -234,7 +234,7 @@
 		}
 	}
 
-	@media (min-width: 64rem) {
+	@media (min-width: 1024px) {
 		.main__container {
 			display: flex;
 			flex-direction: column;
